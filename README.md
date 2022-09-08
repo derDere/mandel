@@ -54,3 +54,7 @@ And finaly run it using:
 ```sh
 ./mandel
 ```
+
+## Similar Projects
+ - https://www.a1k0n.net/2011/07/20/donut-math.html
+ - https://gist.github.com/cgoldberg/4332167
