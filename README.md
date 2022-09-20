@@ -58,3 +58,4 @@ And finaly run it using:
 ## Similar Projects
  - https://www.a1k0n.net/2011/07/20/donut-math.html
  - https://gist.github.com/cgoldberg/4332167
+ - https://github.com/liam-ilan/python-cube
