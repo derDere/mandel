@@ -55,6 +55,10 @@ And finaly run it using:
 ./mandel
 ```
 
+## Zoomable Version
+For all of you who are dissatisfied by the fact that you cannt zoom into the set or move around inside of your terminal: Here is
+a zommable and movable version: https://github.com/derDere/mandelbrot-zoom
+
 ## Similar Projects
  - https://www.a1k0n.net/2011/07/20/donut-math.html
  - https://gist.github.com/cgoldberg/4332167
